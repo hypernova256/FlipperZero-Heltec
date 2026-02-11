@@ -6,6 +6,10 @@ Since these are ESP32 modules, they are compatible with ESP32 apps such as WiFi 
 
 This is my first PCB and CAD project, so feedback would be appreciated.
 
+## Attributions
+
+**PCB Symbol and Blueprint:** https://www.snapeda.com/parts/WIFI%20KIT%2032%20(V3)/Heltec%20Automation/view-part
+
 Made with ❤️ in Canada
 
 \- Nova
